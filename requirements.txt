@@ -88,8 +88,6 @@ networkx==3.3
 numpy==1.26.4
 onnxruntime==1.19.2
 openai==1.63.0
-opencv-contrib-python==4.10.0.84
-opencv-python==4.10.0.84
 opencv-python-headless==4.10.0.84
 opt_einsum==3.4.0
 optree==0.14.0
